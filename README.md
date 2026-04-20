@@ -16,7 +16,7 @@ I added some secret function to the board.
 
 ## BOM
 
-Here should be [everything]([[https://docs.google.com/spreadsheets/d/1zaCOEk-ZGnszMIk4FFVV_LndeX-SJLxj8WLiJESGuGM/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1AuRfUaX59UFpKWCV63FwTXzQ7sGg3CwstVuxbCmtyvM/edit?usp=sharing)](https://docs.google.com/spreadsheets/d/1EyjIwq-JwZ3a3lyBV-CAjp1h-FCLzlr-dAyOyNG1r50/edit?gid=0#gid=0)) you need:
+Here should be [everything](https://docs.google.com/spreadsheets/d/1EyjIwq-JwZ3a3lyBV-CAjp1h-FCLzlr-dAyOyNG1r50/edit?gid=0#gid=0) you need:
 
 - 1x RP2040
 - 1x PCB
