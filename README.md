@@ -1,6 +1,8 @@
 # Pathfinder
 I want to learn more on programming instead of just doing PCB design and soldering, so is started with this project to explore what can I do with buttons and LEDs.
 
+<img width="323" height="256" alt="Screenshot 2026-06-19 at 2 31 26 PM" src="https://github.com/user-attachments/assets/158e806c-93a0-47da-88ef-16cb4028823c" />
+
 ## Feature
 A neatly designed PCB, with 3 buttons and 3 LEDs.
 
